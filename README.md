@@ -1,8 +1,14 @@
 # Question Answering with Streamlit and HuggingFace Pipeline
 
 ## To view the video
-* [Click here](https://youtu.be/J76T73cpu8Q)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=J76T73cpu8Q" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/J76T73cpu8Q?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+Or click on the image below
 
 [![Q&A](http://img.youtube.com/vi/J76T73cpu8Q/0.jpg)](http://www.youtube.com/watch?v=J76T73cpu8Q)
 
